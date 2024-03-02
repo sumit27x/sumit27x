@@ -1,4 +1,4 @@
-Hi👋, I'm Sumit Gupta
+# Hi👋, I'm Sumit Gupta
 
 # 💫 About Me:
 🚀 Innovative Front-End Developer | Crafting Pixel-Perfect Interfaces with React & Redux 🎨
