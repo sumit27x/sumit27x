@@ -120,7 +120,7 @@
 </p>
 
 <p>
-    &nbsp;
+<!--     &nbsp; -->
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=sumit27x&show_icons=true&locale=en"
