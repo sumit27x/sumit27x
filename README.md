@@ -3,6 +3,8 @@
 # 💫 About Me:
 🚀 Innovative Front-End Developer | Crafting Pixel-Perfect Interfaces with React & Redux 🎨
 
+---
+[![](https://visitcount.itsvg.in/api?id=sumit27x&icon=1&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sumitgupta) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_gangster.x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumitgupta27x) 
