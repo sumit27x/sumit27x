@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Sumit Gupta</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dipayan Sarkar
 <h3 align="center">
   🚀 Innovative Front-End Developer | Crafting Pixel-Perfect Interfaces with
   React & Redux 🎨
