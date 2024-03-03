@@ -1,9 +1,6 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap')
-</style>
-
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dipayan Sarkar
 <h1 align="center">Hi 👋,I'm Sumit Gupta</h1>
-<h3 align="center">🚀 Innovative Front-End Developer | Crafting Pixel-Perfect Interfaces with React & Redux 🎨</h3>
+<h3 align="center">🚀 Innovative Front-End Developer | Crafting Pixel-Perfect Interfaces with React & Redux 🎨🛠🔧</h3>
 
 [![](https://visitcount.itsvg.in/api?id=sumit27x&icon=1&color=1)](https://visitcount.itsvg.in)
 <h3 align="left" style:"font-family: "Madimi One", sans-serif;"> 🌐 Connect with me:</h3>
