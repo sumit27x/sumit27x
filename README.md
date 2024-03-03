@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋,I'm Sumit Gupta</h1>
 <h3 align="center">🚀 Innovative Front-End Developer | Crafting Pixel-Perfect Interfaces with React & Redux 🎨</h3>
+
 [![](https://visitcount.itsvg.in/api?id=sumit27x&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <h3 align="left"> 🌐 Connect with me:</h3>
