@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋,I'm Sumit Gupta</h1>
-<h3 align="center">🚀 Innovative Front-End Developer | Crafting Pixel-Perfect Interfaces with React & Redux 🎨🛠🔧</h3>
+<h3 align="center">🚀 Innovative Front-End Developer | Crafting Pixel-Perfect Interfaces with React & Redux 🎨</h3>
 
 [![](https://visitcount.itsvg.in/api?id=sumit27x&icon=1&color=1)](https://visitcount.itsvg.in)
 <h3 align="left" style:"font-family: "Madimi One", sans-serif;"> 🌐 Connect with me:</h3>
@@ -26,7 +26,7 @@
       </a>
     </p>
 
-   <h3 align="left">Skills:</h3>
+   <h3 align="left">🛠 Skills:</h3>
     <p align="left">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -60,7 +60,7 @@
 </p>
 
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">🔧 Tools:</h3>
     <p align="left">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img
