@@ -3,7 +3,12 @@
   🚀 Innovative Front-End Developer | Crafting Pixel-Perfect Interfaces with
   React & Redux 🎨
 </h3>
-
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=sumit27x&label=Profile%20views&color=0e75b6&style=flat"
+    alt="sumit27x"
+  />
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=sumit27x&icon=1&color=1)](https://visitcount.itsvg.in)
 
