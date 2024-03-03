@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Innovative Front-End Developer | Crafting Pixel-Perfect Interfaces with React & Redux 🎨</h3>
 
 [![](https://visitcount.itsvg.in/api?id=sumit27x&icon=1&color=1)](https://visitcount.itsvg.in)
-<h3 align="left"> 🌐 Connect with me:</h3>
+<h3 align="left" style:"font-family: "Madimi One", sans-serif;"> 🌐 Connect with me:</h3>
     <p align="left">
       <a href="https://linkedin.com/in/sumitgupta27x" target="blank">
           <img align="center"
