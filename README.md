@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋,I'm Sumit Gupta</h1>
-<h3 align="center">
-  🚀 Innovative Front-End Developer | Crafting Pixel-Perfect Interfaces with
-  React & Redux 🎨
-</h3>
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=sumit27x&label=Profile%20views&color=0e75b6&style=flat"
-    alt="sumit27x"
-  />
-</p>
-
+<h3 align="center">🚀 Innovative Front-End Developer | Crafting Pixel-Perfect Interfaces with React & Redux 🎨</h3>
 [![](https://visitcount.itsvg.in/api?id=sumit27x&icon=1&color=1)](https://visitcount.itsvg.in)
-
 
 <h3 align="left"> 🌐 Connect with me:</h3>
     <p align="left">
