@@ -1,3 +1,7 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap')
+</style>
+
 <h1 align="center">Hi 👋,I'm Sumit Gupta</h1>
 <h3 align="center">🚀 Innovative Front-End Developer | Crafting Pixel-Perfect Interfaces with React & Redux 🎨</h3>
 
