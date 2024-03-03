@@ -1,4 +1,6 @@
-<h1 align="center">Hi</hl> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<h1 align="center">My name is Dipayan Sarkar </h1>
+<h1 align="center">Hi</hl> 
+    ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+    <h1 align="center">My name is Dipayan Sarkar </h1>
 <h1 align="center">Hi 👋,I'm Sumit Gupta</h1>
 <h3 align="center">🚀 Innovative Front-End Developer | Crafting Pixel-Perfect Interfaces with React & Redux 🎨🛠🔧</h3>
 
