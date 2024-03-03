@@ -60,7 +60,56 @@
     </p>
 
 
+<h3 align="left">Tools:</h3>
+    <p align="left">
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+          alt="git" width="40" height="40"/>
+      </a>
+      <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/github/github-icon.svg"
+          alt="github" width="40" height="40"/>
+      </a>
+      <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+          alt="postman" width="40" height="40"/>
+      </a>
+      <a href="https://rapidapi.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/rapidapi/rapidapi-icon.svg"
+          alt="rapid api" width="40" height="40"/>
+      </a>
+      <a href="https://trello.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg"
+          alt="trello" width="40" height="40"/>
+      </a>
+      <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"
+          alt="jira" width="40" height="40"/>
+      </a>
+      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+          alt="firebase" width="40" height="40"/>
+      </a>
+      <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg"
+          alt="vercel" width="40" height="40"/>
+      </a>
+      <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"
+          alt="netlify" width="40" height="40"/>
+      </a> 
     </p>
+
+    
 
     
 ## 🌐 Socials:
