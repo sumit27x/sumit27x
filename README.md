@@ -5,11 +5,6 @@
 </h3>
 
 
-# Hi👋, I'm Sumit Gupta
-
-# 💫 About Me:
-🚀 Innovative Front-End Developer | Crafting Pixel-Perfect Interfaces with React & Redux 🎨
-
 [![](https://visitcount.itsvg.in/api?id=sumit27x&icon=1&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
