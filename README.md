@@ -123,9 +123,9 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=sumit27x&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-## 🔝 Top Contributed Repo                    ## 🔝 Redom Dev Memes
+## 🔝 Top Contributed Repo                      😂 Redom Dev Memes
 
-<div display="flex" align="center">
+<div display="flex" align="center" justify-content="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=sumit27x&limit=5&theme=algolia&combine_all_yearly_contributions=true" />
 <img src='https://randommeme-five.vercel.app/' height="250"/>
 </div>
