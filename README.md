@@ -8,7 +8,7 @@
     <p align="left">
       <a href="https://linkedin.com/in/sumitgupta27x" target="blank">
           <img align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumitgupta27x" height="30" width="40"/>
+     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumitgupta27x" height="30" width="40"/>
       </a>
       <a href="https://linkedin.com/in/sumitgupta27x" target="blank">
           <img align="center"
@@ -125,6 +125,9 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
+    <div align="center">
+      <img height="350" src="https://media0.giphy.com/media/7SHF5dpGlltj4bwqFY/giphy.gif?cid=ecf05e474175d3ujhko8y0sp7ylc2u96gtgj2ee2ls13xhfd&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+    </div>
 
 
 <img src="https://raw.githubusercontent.com/sumit27x/sumit27x/output/snake.svg" alt="Snake animation" />
