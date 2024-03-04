@@ -131,9 +131,3 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-
-<div display="flex" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sumit27x&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="200"  alt="stats graph" /> 
-    <img src="https://streak-stats.demolab.com?user=sumit27x&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5" height="200" alt="streak graph" /> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit27x&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="200" alt="languages graph"  />
-</div>
