@@ -123,6 +123,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sumit27x&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
+<img src="https://github-contributor-stats.vercel.app/api?username=sumit27x&limit=5&theme=algolia&combine_all_yearly_contributions=true" style="height:200px;"/>
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
