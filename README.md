@@ -120,11 +120,16 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sumit27x&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=sumit27x&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
+<div display="flex" align="center">
+### 🔝 Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=sumit27x&limit=5&theme=algolia&combine_all_yearly_contributions=true" style="height:200px;"/>
-
-### 😂 Random Dev Meme
+    
+    ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
+
+
 
