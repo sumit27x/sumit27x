@@ -116,10 +116,11 @@
     <img src="https://streak-stats.demolab.com?user=sumit27x&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5" height="200" alt="streak graph" /> 
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit27x&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="200" alt="languages graph"  />
 </div>
-
+<div display="flex" align="center">
 ![](https://github-readme-stats.vercel.app/api?username=sumit27x&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sumit27x&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit27x&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sumit27x&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
