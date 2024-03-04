@@ -125,10 +125,10 @@
 
 <div display="flex" align="center">
 ### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=sumit27x&limit=5&theme=algolia&combine_all_yearly_contributions=true" style="height:200px;"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=sumit27x&limit=5&theme=algolia&combine_all_yearly_contributions=true" />
     
     ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' />
 </div>
 
 
